@@ -1,2 +1,2 @@
 # inssn.github.io
-template
+interior
